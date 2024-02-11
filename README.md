@@ -6,6 +6,16 @@ Welcome to our ToDo app project!
 
 Our project is a ToDo application developed using React.js, Redux, and Tailwind CSS. It provides users with a simple and intuitive interface to manage their daily tasks efficiently.
 
+## Screenshots
+
+![image](https://github.com/anupamthackar/ToDo-App/assets/70510089/e857a755-c11b-4a35-bdd7-fe1154c9e33b)
+
+![image](https://github.com/anupamthackar/ToDo-App/assets/70510089/d519a581-d06f-4edb-b3f3-8b0d3f64c86a)
+
+![image](https://github.com/anupamthackar/ToDo-App/assets/70510089/2360c63c-30ad-424a-9416-0e2a16efbf16)
+
+![image](https://github.com/anupamthackar/ToDo-App/assets/70510089/206473bd-dd43-4957-a518-0a12f1955f62)
+
 ## Features
 
 - **Add Task**: Easily add new tasks to your ToDo list.
@@ -46,12 +56,7 @@ Our project is a ToDo application developed using React.js, Redux, and Tailwind 
 
 ## Project Links
 
-- **GitHub Repository**: [GitHub - ToDo App](https://github.com/anupamthackar/ToDo-App)
 - **Live Demo**: [ToDo App](https://todo-react-app-seven-alpha.vercel.app/)
 
-## Screenshots
 
-1. [Screenshot 1](link-to-screenshot-1)
-2. [Screenshot 2](link-to-screenshot-2)
-3. [Screenshot 3](link-to-screenshot-3)
 
