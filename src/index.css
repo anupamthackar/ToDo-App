@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  @font-face {
+    font-family: "Poppins,";
+    src: url(./fonts/Poppins-Regular.ttf);
+  }
+}
+
+@layer base {
+  @font-face {
+    font-family: "ShadowHand";
+    src: url(./fonts/ShadowHand.ttf);
+  }
+}
+
+body {
+  background-color: white;
+  background: url(./assets/main-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+
+.head-text {
+  font-family: "shadowHand";
+  font-size: 84px;
+  color: rgb(0, 0, 0);
+  top: 50px;
+}
+
+.todolist {
+  border-radius: 22px;
+  background: #2b3b55;
+  padding-left: 40px;
+}
+
+.todolist:hover {
+  border-radius: 22px;
+  color: rgb(0, 0, 0);
+  background: linear-gradient(315deg, #ffffff, #dbdada);
+  transform: scale(1.1);
+  transition: transform 0.3s ease-in;
+
+}
+
+.p-1 {
+  border: 2px dashed lightcoral;
+  border-radius: 6px;
+  padding: 5px 10px;
+  background-color: rgba(0, 0, 0, 0);
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+}
+
+.empty-img {
+  position: relative;
+  top: 10%;
+  left: 0%;
+  z-index: -1;
+}
